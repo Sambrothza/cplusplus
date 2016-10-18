@@ -7,7 +7,8 @@
 //------------------------------------------------------------------------
 //
 // <REVISION> 	<DATE/AUTHOR> 			<CHANGE DESCRIPTION>
-// 1.0 			<18-10-16 / SLT> 		<Initial version>
+// 1.0 		<18-10-16 / SLT> 		<Initial version>
+// 1.1		<18-10-16 / SLT>		<Format changes>
 //========================================================================
 
 #include <iostream>
